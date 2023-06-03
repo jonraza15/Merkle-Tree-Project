@@ -25,3 +25,4 @@ There are a few files in utils:
 - The `MerkleTree.js` should look familiar from the Merkle Tree module! This one has been modified so you should not have to deal with any crypto type conversion. You can import this in your client/server
 - The `verifyProof.js` should also look familiar. This was the last stage in the module. You can use this function to prove a name is in the merkle root, as show in the example.
 # Merkle-Tree-Project
+# Merkle-tree-project
